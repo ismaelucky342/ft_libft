@@ -16,4 +16,7 @@ It is essential and my main objective with this project to understand the functi
 ## Usage
 A makefile has been provided to compile the functions and the make bonus command must be used for additional list functions.
 
--born2code-
+-born2code
+
+![image](https://github.com/ismaelucky342/Libft/assets/153450550/1ef99df8-6b89-44bb-b90b-526cce5e7869)
+
