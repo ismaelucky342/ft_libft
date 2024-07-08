@@ -10,6 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
+#include "../includes/libft.h"
 //#include <stdio.h>
 
 int	ft_toupper(int c)
