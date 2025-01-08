@@ -2,10 +2,7 @@
 
 My first basic functions library as my first school project 42 Madrid
 
-
-
-![image](https://github.com/ismaelucky342/Libft/assets/153450550/ff58b241-dd72-4929-9865-d14fd4fc8fba)
-
+![image](https://github.com/user-attachments/assets/80c08c58-f169-4821-8ea3-04ff319eeba1)
 
 During our introduction to C programming in the 42 school entrance test, we were introduced to a series of basic functions. 
 This library will accompany us as students throughout the 42cursus.
